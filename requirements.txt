@@ -1,5 +1,4 @@
 TgCrypto
-pyrofork
 motor
 aiofiles
 dnspython
